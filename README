@@ -1,0 +1,43 @@
+# Student Task Manager
+
+A simple console-based Java project to manage student tasks efficiently.
+
+## Overview
+
+Student Task Manager is a menu-driven Java application that helps students organize their academic work.  
+Users can add, view, update, delete, and mark tasks as completed using a simple console interface.
+
+This project is built using core Java and demonstrates object-oriented programming concepts and CRUD operations.
+
+## Features
+
+- Add new tasks
+- View all tasks
+- Update existing tasks
+- Delete tasks
+- Mark tasks as completed
+- Menu-driven console interface
+
+## Technologies Used
+
+- Java
+- OOP (Object-Oriented Programming)
+- ArrayList
+- Scanner
+- CRUD Operations
+
+## Project Structure
+
+StudentTaskManager/
+└── src/
+└── app/
+├── Main.java
+├── Task.java
+└── TaskManager.java
+
+## How to Run
+
+1. Compile the project:
+
+```bash
+javac src\app\Task.java src\app\TaskManager.java src\app\Main.java
